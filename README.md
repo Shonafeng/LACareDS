@@ -5,4 +5,4 @@ This Repo is for LACare DS Datachallenge. The submissions includes:
 
 2)html - 'Loan Status Prediction - Xiao Feng': The html version of ipython notebook
 
-3)model.pkl - Pickled model package object for model reproducibility
+
